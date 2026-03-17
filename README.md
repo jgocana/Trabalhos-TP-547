@@ -1,5 +1,6 @@
-## Trabalhos TP  547
+# Trabalhos TP  547
 
-#Alunos 
+## Alunos
+
 - José Antonio García Ocaña
-- Alfredo Jesús Arboláez Fundora 
+- Alfredo Jesús Arbolaez Fundora
