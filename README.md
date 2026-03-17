@@ -9,7 +9,7 @@
 
 ## Conteúdo dos Trabalhos
 
-### 🔹 Trabalho 1
+### Trabalho 1
 
 Este diretório contém a implementação de métodos de geração de variáveis aleatórias e simulação.
 
