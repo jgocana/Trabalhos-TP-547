@@ -75,3 +75,7 @@ Este diretório contém a implementação de métodos de geração de variáveis
 - O PDF contém a orientação dos exercícios.
 
 ---
+
+### Trabalho 2
+
+Este diretório contém a Trabalho 2
