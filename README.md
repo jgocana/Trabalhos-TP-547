@@ -15,7 +15,7 @@ Este diretório contém a implementação de métodos de geração de variáveis
 
 ---
 
-## Notebooks
+## Notebooks Trabalho 1
 
 ### Gerador Linear Congruente  
 
@@ -80,6 +80,10 @@ Este diretório contém a implementação de métodos de geração de variáveis
 
 Este diretório contém a Trabalho 2
 
+---
+
+## Notebooks Trabalho 2
+
 ### Convergência e Lei dos Grandes Números
 
 [Abrir no GitHub](./Trabalho%202/convergencia_e_lei_dos_grandes_numeros.ipynb)  
@@ -115,6 +119,8 @@ Este diretório contém a Trabalho 2
 <a href="https://colab.research.google.com/github/jgocana/Trabalhos-TP-547/blob/master/Trabalho%202/simulacao_monte_carlo_dados.ipynb" target="_parent">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+---
 
 ### Trabalho Final Parte 1
 
