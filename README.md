@@ -62,20 +62,6 @@ Este diretório contém a implementação de métodos de geração de variáveis
 
 ---
 
-## Material de apoio
-
-- [Lista de Exercícios](./Trabalho%201/lista_exercicios_probabilidade_simulacao%201.pdf)
-
----
-
-## Observações
-
-- Os notebooks abordam diferentes distribuições probabilísticas e métodos de simulação.
-- Todos podem ser executados diretamente no Google Colab.
-- O PDF contém a orientação dos exercícios.
-
----
-
 ### Trabalho 2
 
 Este diretório contém a Trabalho 2
@@ -125,3 +111,21 @@ Este diretório contém a Trabalho 2
 ### Trabalho Final Parte 1
 
 Este diretório contém a Trabalho 2
+
+---
+
+## Material de apoio
+
+- [Lista de Exercícios Trabalho 1](./Trabalho%201/lista_exercicios_probabilidade_simulacao%201.pdf)
+
+- [Lista de Exercícios Trabalho 2](./Trabalho%202/lista_2.pdf)
+
+- [Trabalho Final Parte 1](./Trabalho%20Final%20Parte%201/trab1tp547.pdf)
+
+---
+
+## Observações
+
+- Os notebooks abordam diferentes métodos de simulação.
+- Todos podem ser executados diretamente no Google Colab.
+- O PDF contém a orientação dos trabalhos.
