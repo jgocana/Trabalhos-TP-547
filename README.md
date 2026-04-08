@@ -110,7 +110,16 @@ Este diretório contém a Trabalho 2
 
 ### Trabalho Final Parte 1
 
-Este diretório contém a Trabalho 2
+Este diretório contém a Trabalho Final Parte 1
+
+## Notebooks Trabalho Final Parte 1
+
+### Trabalho Final
+
+[Abrir no GitHub](./Trabalho%20Final%20Parte%201/trabalho_fianl_1.ipynb)  
+<a href="https://colab.research.google.com/github/jgocana/Trabalhos-TP-547/blob/master/Trabalho%20Final%20Parte%201/trabalho_fianl_1.ipynb" target="_parent">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 ---
 
