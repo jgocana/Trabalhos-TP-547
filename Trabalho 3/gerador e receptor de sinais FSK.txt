@@ -1,0 +1,2 @@
+Instruções
+Criar um código python que simula a geração e recepção de sinais FSK. Incluir no github o código totalmente comentado.

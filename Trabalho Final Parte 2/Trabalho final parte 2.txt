@@ -1,0 +1,15 @@
+Instruções
+Escolher um artigo (congresso ou revista) relacionado ao seguintes temas:
+Amostragem e quantização;
+Comunicação em banda base;
+Comunicação em banda passante;
+Modulações digitais.
+ Fazer um resumo do artigo;
+Fazer uma análise crítica;
+O artigo está bem escrito;
+O artigo apresenta uma contribuição relevante;
+Os equacionamentos são bem explicados;
+ O autor demonstra a contribuição nos resultados.
+Usar os mesmos grupos do trabalho anterior.
+Este trabalho faz parte da segunda parcela da nota final (70%);
+Fazer um relatório em formato Word e incluir no github da disciplina
