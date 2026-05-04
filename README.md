@@ -9,13 +9,13 @@
 
 ## Conteúdo dos Trabalhos
 
-### Trabalho 1
+## Trabalho 1
 
 Este diretório contém a implementação de métodos de geração de variáveis aleatórias e simulação.
 
 ---
 
-## Notebooks Trabalho 1
+### Notebooks Trabalho 1
 
 ### Gerador Linear Congruente  
 
@@ -62,13 +62,13 @@ Este diretório contém a implementação de métodos de geração de variáveis
 
 ---
 
-### Trabalho 2
+## Trabalho 2
 
 Este diretório contém a Trabalho 2
 
 ---
 
-## Notebooks Trabalho 2
+### Notebooks Trabalho 2
 
 ### Convergência e Lei dos Grandes Números
 
@@ -108,13 +108,13 @@ Este diretório contém a Trabalho 2
 
 ---
 
-### Trabalho 3
+## Trabalho 3
 
 Este diretório contém a Trabalho 3
 
 ---
 
-## Notebooks Trabalho 3
+### Notebooks Trabalho 3
 
 ### Gerador e receptor de sinais FSK
 
