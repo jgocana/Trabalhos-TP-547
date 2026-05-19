@@ -125,6 +125,30 @@ Este diretório contém a Trabalho 3
 
 ---
 
+## Trabalho 4
+
+Este diretório contém a Trabalho 4
+
+---
+
+### Notebooks Trabalho 4
+
+### Markov
+
+[Abrir no GitHub](./Trabalho%204/markov.ipynb)  
+<a href="https://colab.research.google.com/github/jgocana/Trabalhos-TP-547/blob/master/Trabalho%204/markov.ipynb" target="_parent">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+### ACD
+
+[Abrir no GitHub](./Trabalho%204/acd.ipynb)  
+<a href="https://colab.research.google.com/github/jgocana/Trabalhos-TP-547/blob/master/Trabalho%204/acd.ipynb" target="_parent">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+---
+
 ## Trabalho Final
 
 ---
