@@ -172,6 +172,11 @@ Este diretório contém a Trabalho Final Parte 2
 
 ## Notebooks Trabalho Final Parte 2
 
+[Abrir no GitHub](./Trabalho%20Final%20Parte%202/figura3_qpsk_rayleigh.ipynb)  
+<a href="https://colab.research.google.com/github/jgocana/Trabalhos-TP-547/blob/master/Trabalho%20Final%20Parte%202/figura3_qpsk_rayleigh.ipynb" target="_parent">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ---
 
 ## Material de apoio
