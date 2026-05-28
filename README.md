@@ -153,11 +153,11 @@ Este diretório contém a Trabalho 4
 
 ---
 
-### Trabalho Final Parte 1
+## Trabalho Final Parte 1
 
 Este diretório contém a Trabalho Final Parte 1
 
-## Notebooks Trabalho Final Parte 1
+### Notebooks Trabalho Final Parte 1
 
 [Abrir no GitHub](./Trabalho%20Final%20Parte%201/trabalho_final_1.ipynb)  
 <a href="https://colab.research.google.com/github/jgocana/Trabalhos-TP-547/blob/master/Trabalho%20Final%20Parte%201/trabalho_final_1.ipynb" target="_parent">
@@ -166,11 +166,11 @@ Este diretório contém a Trabalho Final Parte 1
 
 ---
 
-### Trabalho Final Parte 2
+## Trabalho Final Parte 2
 
 Este diretório contém a Trabalho Final Parte 2
 
-## Notebooks Trabalho Final Parte 2
+### Notebooks Trabalho Final Parte 2
 
 [Abrir no GitHub](./Trabalho%20Final%20Parte%202/figura3_qpsk_rayleigh.ipynb)  
 <a href="https://colab.research.google.com/github/jgocana/Trabalhos-TP-547/blob/master/Trabalho%20Final%20Parte%202/figura3_qpsk_rayleigh.ipynb" target="_parent">
