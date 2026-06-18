@@ -178,6 +178,20 @@ Este diretório contém a Trabalho Final Parte 2
 </a>
 
 ---
+## Trabalho Final Parte 3
+
+Este diretório contém a Trabalho Final Parte 3
+
+Fila M/M/1 com Clientes Impacientes e Retorno Futuro (Retrial Queue)
+
+### Notebooks Trabalho Final Parte 3
+
+[Abrir no GitHub](./Trabalho%20Final%20Parte%203/estudo_caso_fila_impaciente.ipynb)  
+<a href="https://colab.research.google.com/github/jgocana/Trabalhos-TP-547/blob/master/Trabalho%20Final%20Parte%202/estudo_caso_fila_impaciente.ipynb" target="_parent">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+---
 
 ## Material de apoio
 
